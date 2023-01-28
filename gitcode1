@@ -1,0 +1,3 @@
+a=int(input("enter a"))
+b=int(inputT("enter b"))
+print(a+b)
